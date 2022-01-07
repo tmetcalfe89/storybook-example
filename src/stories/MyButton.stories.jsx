@@ -6,7 +6,7 @@ export default {
   title: "Mine/Button",
   component: Button,
   argTypes: {
-    title: {
+    label: {
       type: {
         name: "string",
         required: true
