@@ -2,8 +2,7 @@
   "name": "storybook-example",
   "version": "0.1.0",
   "engines": {
-    "node": "16.x",
-    "npm": "8.x"
+    "node": "16.x"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
