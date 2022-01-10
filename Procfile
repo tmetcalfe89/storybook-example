@@ -1,1 +1,1 @@
-web: npx http-server ./storybook-static
+web: node .storybook/main.js
