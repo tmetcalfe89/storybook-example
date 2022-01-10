@@ -1,1 +1,1 @@
-web: node .storybook/main.js
+web: node .storybook/run.js
